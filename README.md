@@ -40,6 +40,7 @@ Here's an example of how to use the lip-sync AI model:
 
 ```bash
 python lip_sync_model.py --video video_frames/ --audio audio.wav --output lip_synced_video.mp4
+```
 
 ## Acknowledgements
 
