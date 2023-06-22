@@ -16,7 +16,7 @@ Lip-Sync Generation: Wav2Lip takes the extracted audio waveform and the correspo
 
 Output Video: The lip-synced video is created by combining the original video frames with the generated lip movements. The resulting video file has synchronized audio and lip movements.
 
-#Getting Started
+# Getting Started
 To use the lip-sync AI model, follow these steps:
 
 Requirements: Make sure you have the necessary dependencies installed. This may include Python, TensorFlow, OpenCV, and other libraries. You can find the specific requirements in the requirements.txt file.
@@ -31,7 +31,7 @@ Run the Model: Run the lip-sync AI model by providing the preprocessed video fra
 
 Output Video: Combine the generated lip movements with the original video frames to create the final lip-synced video. You can use a video editing tool or library for this step.
 
-#Example Usage
+# Example Usage
 python inference.py --video video_frames/ --audio audio.wav --output lip_synced_video.mp4
 
 In this example, video_frames/ is the directory containing the preprocessed video frames, audio.wav is the audio file, and lip_synced_video.mp4 is the desired output file name for the lip-synced video.
