@@ -44,7 +44,8 @@ python lip_sync_model.py --video video_frames/ --audio audio.wav --output lip_sy
 
 ## 🙏 Acknowledgements
 
-This lip-sync AI model is based on the [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) project developed by Aruni RoyChowdhury.
+This lip-sync AI model is based on the [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) project developed by Aruni RoyChowdhury
+and reference from [Wav2Lip](https://github.com/Rudrabha/Wav2Lip) by Markfryazino.
 
 
 > "The future is now!" - Lip-Sync AI Team 💫
