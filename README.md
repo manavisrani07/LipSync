@@ -12,7 +12,7 @@ MY OUTPUT WITH EXECUTION: https://drive.google.com/drive/folders/11sWcd24TzpZiUp
 
 This repository contains an AI model that utilizes Wav2Lip for lip-syncing, which is the process of synchronizing an audio file with a video file. Wav2Lip is a deep learning-based approach that generates realistic lip movements from input audio. This model can be used for various applications, such as dubbing, video editing, or creating lip-sync animations.
 
-**Note: The updated version of this model can process video files that may not have video in all frames, but have video in some frames.**
+**Note: The updated version of this model can process video files that may not have faces in all frames, but have faces in some frames.**
 
 ## 🚀 How It Works
 
