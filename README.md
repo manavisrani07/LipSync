@@ -3,7 +3,7 @@ TARGET VIDEO: https://drive.google.com/file/d/1-2SvaI0aQGuZG69uz3CQ_xJcnhQg2fIg/
 
 TARGET AUDIO: https://drive.google.com/file/d/1W4-nfO6M4mGsR5kLBs8Jmc88Voz4QHld/view?usp=drive_link
 
-MY OUTPUT WITH EXECUTION:
+MY OUTPUT WITH EXECUTION: https://drive.google.com/drive/folders/11sWcd24TzpZiUpKsgDmuKfKxM28cRFwd?usp=drive_link
 
 
 # Lip-Sync AI Model with Wav2Lip
@@ -11,6 +11,8 @@ MY OUTPUT WITH EXECUTION:
 ![Lip-Sync Demo](demo.gif)
 
 This repository contains an AI model that utilizes Wav2Lip for lip-syncing, which is the process of synchronizing an audio file with a video file. Wav2Lip is a deep learning-based approach that generates realistic lip movements from input audio. This model can be used for various applications, such as dubbing, video editing, or creating lip-sync animations.
+
+**Note: The updated version of this model can process video files that may not have video in all frames, but have video in some frames.**
 
 ## 🚀 How It Works
 
@@ -48,7 +50,7 @@ Here's an example of how to use the lip-sync AI model:
 
 ```bash
 python lip_sync_model.py --video video_frames/ --audio audio.wav --output lip_synced_video.mp4
-```
+
 
 ## 🙏 Acknowledgements
 
