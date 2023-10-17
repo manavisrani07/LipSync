@@ -1,11 +1,3 @@
-# MY OUTPUT:
-TARGET VIDEO: https://drive.google.com/file/d/1-2SvaI0aQGuZG69uz3CQ_xJcnhQg2fIg/view?usp=drive_link
-
-TARGET AUDIO: https://drive.google.com/file/d/1W4-nfO6M4mGsR5kLBs8Jmc88Voz4QHld/view?usp=drive_link
-
-MY OUTPUT WITH EXECUTION: https://drive.google.com/drive/folders/11sWcd24TzpZiUpKsgDmuKfKxM28cRFwd?usp=drive_link
-
-
 # Lip-Sync AI Model with Wav2Lip
 
 ![Lip-Sync Demo](demo.gif)
